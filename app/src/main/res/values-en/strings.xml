@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestLanguage</string>
+    <string name="language">this is english</string>
+    <string name="success">sucess</string>
+</resources>
